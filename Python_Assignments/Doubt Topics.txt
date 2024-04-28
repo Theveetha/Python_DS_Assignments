@@ -1,0 +1,45 @@
+
+is operator
+return TRUE if both the variables belong to same class, same value and same memory location
+
+
+== operator
+return TRUE if both the variables belong to same value
+
+
+
+"variableName".isidentifier()
+# return TRUE if variableName can be used as Variable, except for "keyword" logic
+
+
+
+s = chr(27) + chr(97)
+print(s.isprintable())  # **
+
+
+casefold : converts ascii and non ascii to lower case. If its not alphabets then lowercase, uppcase , title will not have any impact on it.
+isascii **
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+This is a Sample Text File.
+It Contains a MixTURE of Upper and Lowercase CHARacters.
+You can create your own text file with similar content.
+The FILE_NAME.txt is just an example; you can choose any name.
